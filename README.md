@@ -4,7 +4,7 @@
 ## 👀 I’m interested in Blockchain Technologies (particularly decentralized governance and finance).
 ## 🌱 Mastering Node & React.
 ## 👨‍💻 Current goals: Proficiency in building / maintaining relational DBs in MySQL and Node.
-## 📫 Contact me @ hevar.abrihem@wutzu.com
+## 📫 Contact me @ me@hevxr.com
 
 ## [Hackerrank](https://www.hackerrank.com/hevxr) / [FreeCodeCamp](https://www.freecodecamp.org/hevar)
 
